@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "4631582cc4f28602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Author's Personal Journal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b8c9953a2bfe36f7",
             "type": "leaf",
             "state": {
@@ -29,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planes/Inner Planes/Material Plane.md",
+                "file": "Author's Personal Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planes/Inner Planes/Material Plane.md",
+                "file": "Author's Personal Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planes/Inner Planes/Material Plane.md"
+                "file": "Author's Personal Journal.md"
               }
             }
           },
@@ -174,10 +187,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "097778cafc229378",
+  "active": "4631582cc4f28602",
   "lastOpenFiles": [
-    "Planes/Far Planes/Astral Plane.md",
     "Planes/Inner Planes/Material Plane.md",
+    "Planes/Far Planes/Astral Plane.md",
     "Planes/Inner Planes/Feywild.md",
     "Planes/Inner Planes/Ethereal Plane.md",
     "Planes/Far Planes/Positive Plane.md",

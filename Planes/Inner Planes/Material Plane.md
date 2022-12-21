@@ -19,8 +19,7 @@ This plane is typically treated as a neutral zone for politics and religion but 
 ### TRAVEL
 TODO: Make a list of traveling locations within this plane. Gotta figure out some of these nice places.
 
-### JOURNAL
-Day 1: Fuck fuck fuck. I can't believe I st
+
 
 ### TOOLKIT
 
