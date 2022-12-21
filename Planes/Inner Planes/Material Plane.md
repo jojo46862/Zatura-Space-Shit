@@ -14,7 +14,7 @@ Within the material plane you can find all sorts of races. There are very few ra
 A few of the questions within the realm are how did it come to be? Did all life originate from this plane? Why do all the planes circle around this one? All grand questions with not direct answers
 
 ### POLITICS/RELIGION
-This plane is typically treated as a neutral zone for politics and religion but that doesn't quite stop people from arguing and trying to convert you one way or another. If I had to hear about the monstrous nature of those Apholosians or the doom that approaches Zatura I am going to have a migraine. Generally people approach
+This plane is typically treated as a neutral zone for politics and religion but that doesn't quite stop people from arguing and trying to convert you one way or another. If I had to hear about the monstrous nature of those Apholosians or the doom that approaches Zatura I am going to have a migraine. Generally people approach a don't ask don't tell situation. If you hear someone say "I'm not that into politics but...", run away as fast as you possible can. Either they are distracting you to steal your ship, or they are a 
 
 ### TRAVEL
 
