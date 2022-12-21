@@ -8,7 +8,7 @@ This is where our intrepid adventure begin my dear readers. This plane is one of
 Each planet has it's own biosphere that is to be noted and generally understood for your own survival. The plane itself lacks breathable air so stay within the gravity sphere of your ship and your survival will greatly increase. The nature of this plane being surrounded by all other planes means that it is one that has unique dangers from all the rest. Prepare yourself for anything and everything as the danger, while not focused, is diverse.
 
 ### THE LOCALS
-Within the material plane you can find all sorts of races. There are very few races that do not reside or even travel to the material plane, but those who don't come here normally are the really nasty bastards. 
+Within the material plane you can find all sorts of races. There are very few races that do not reside or even travel to the material plane, but those who don't come here normally are the really nasty bastards. Odds are if you are reading this book you are not well versed in the planes, so lets get started. You got your common Dwarfs, Elves, Gnomes, Dragonborn, Humans, and more. The interesting races are those with connections to the [[Astral Plane]], including the Kalashtar, 
 
 ### MYSTERIES
 
