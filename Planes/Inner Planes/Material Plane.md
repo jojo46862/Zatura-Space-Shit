@@ -11,10 +11,10 @@ Each planet has it's own biosphere that is to be noted and generally understood 
 Within the material plane you can find all sorts of races. There are very few races that do not reside or even travel to the material plane, but those who don't come here normally are the really nasty bastards. Odds are if you are reading this book you are not well versed in the planes, so lets get started. You got your common Dwarfs, Elves, Gnomes, Dragonborn, Humans, and more. The interesting races are those with connections to the [[Astral Plane]], including the Kalashtar, Githyanki, Githzerai, and Mind Flayers. Oh yeah mind flayers, those guys are real assholes. They mess with your mind and just really mess you up. A few of them are know to travel to planets and attempt to take part of the population to turn into more mind flayers. It's disgusting and I've had a few crappy encounters with these mind flayers.
 
 ### MYSTERIES
-A few of the questions within the realm are how did it come to be? Did all life originate from this plane? Why do all the planes circle around this one? All grand 
+A few of the questions within the realm are how did it come to be? Did all life originate from this plane? Why do all the planes circle around this one? All grand questions with not direct answers
 
 ### POLITICS/RELIGION
-
+This plane is typically treated as a neutral zone for politics and religion but that doesn't quite stop people from arguing and trying to convert you one way or another. If I had to hear about the monstrous nature of those Apholosians or the doom that approaches Zatura I am going to have a migraine. Generally people approach
 
 ### TRAVEL
 
