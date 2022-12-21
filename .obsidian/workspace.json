@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planes/Elemental Planes/Air.md",
+                "file": "Planes/Inner Planes/Material Plane.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planes/Elemental Planes/Air.md",
+                "file": "Planes/Inner Planes/Material Plane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planes/Elemental Planes/Air.md",
+                "file": "Planes/Inner Planes/Material Plane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Planes/Elemental Planes/Air.md"
+                "file": "Planes/Inner Planes/Material Plane.md"
               }
             }
           },
@@ -176,15 +176,15 @@
   },
   "active": "097778cafc229378",
   "lastOpenFiles": [
-    "Planes/Elemental Planes/Earth.md",
-    "Planes/Elemental Planes/Fire.md",
-    "Planes/Elemental Planes/Water.md",
-    "Planes/Far Planes/Astral Plane.md",
-    "Planes/Far Planes/Negative Plane.md",
-    "Planes/Far Planes/Positive Plane.md",
-    "Planes/Inner Planes/Shadowfell.md",
-    "Planes/Inner Planes/Material Plane.md",
     "Planes/Inner Planes/Feywild.md",
-    "Planes/Inner Planes/Ethereal Plane.md"
+    "Planes/Inner Planes/Ethereal Plane.md",
+    "Planes/Far Planes/Positive Plane.md",
+    "Planes/Far Planes/Negative Plane.md",
+    "Planes/Far Planes/Astral Plane.md",
+    "Planes/Elemental Planes/Water.md",
+    "Planes/Elemental Planes/Fire.md",
+    "Planes/Elemental Planes/Earth.md",
+    "Planes/Elemental Planes/Air.md",
+    "Planes/Inner Planes/Shadowfell.md"
   ]
 }
