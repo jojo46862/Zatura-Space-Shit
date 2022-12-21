@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "bff1ac321d4b6950",
+    "type": "split",
+    "children": [
+      {
+        "id": "e97a350f201163de",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Characters/Balthis.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d86ae85d3d092cf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6be430ec1becb6e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a95ef3304b5547b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab3c9a4a7cb41c0a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "fad134366de7cfcb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279
+  },
+  "right": {
+    "id": "0d18596a0365e10e",
+    "type": "split",
+    "children": [
+      {
+        "id": "40e5e21ccd92b3e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7b828a6c0dedd77",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Characters/Balthis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "247f84e2ad56ce6c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Characters/Balthis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d110273f56c5f1f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4d8432076a2e2c0b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Characters/Balthis.md"
+              }
+            }
+          },
+          {
+            "id": "a6f45285da18801b",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8b3e356ce789a3d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5
+  },
+  "active": "e97a350f201163de",
+  "lastOpenFiles": [
+    "World Maps/ZaturaMedRes.png",
+    "World Maps/Zatura leaflet.md",
+    "README.md",
+    "World Information/Zatura.md",
+    "History/The Tsens War of Independence.md",
+    "World Information/Gods/Fauzta the God Destroyer.md",
+    "World Information/Gods/Hados the Eternal Warrior.md",
+    "Continents/Countries/Duchy of Tsens/Ma'khanix/People/Fredric Elim.md",
+    "History/The Second Seige of Ma'Khanix.md",
+    "Characters/Yllrora.md"
+  ]
+}

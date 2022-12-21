@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "readableLineLength": false,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "communityPluginSortOrder": "download",
+  "userIgnoreFilters": [
+    "Info Not To Be Shown On Stream/"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#God",
+      "color": {
+        "a": 1,
+        "rgb": 8061183
+      }
+    },
+    {
+      "query": "tag:#Race",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#Location",
+      "color": {
+        "a": 1,
+        "rgb": 31488
+      }
+    },
+    {
+      "query": "tag:#Domain",
+      "color": {
+        "a": 1,
+        "rgb": 2303
+      }
+    },
+    {
+      "query": "tag:#Mechanic",
+      "color": {
+        "a": 1,
+        "rgb": 65505
+      }
+    },
+    {
+      "query": "tag:#History",
+      "color": {
+        "a": 1,
+        "rgb": 16776960
+      }
+    },
+    {
+      "query": "path:\"Info Not To Be Shown On Stream\"",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    },
+    {
+      "query": "tag:#Plane",
+      "color": {
+        "a": 1,
+        "rgb": 16743168
+      }
+    },
+    {
+      "query": "tag:#Person",
+      "color": {
+        "a": 1,
+        "rgb": 3997737
+      }
+    },
+    {
+      "query": "tag:#Character",
+      "color": {
+        "a": 1,
+        "rgb": 16711927
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.9,
+  "nodeSizeMultiplier": 1.21243243243243,
+  "lineSizeMultiplier": 1.55675675675676,
+  "collapse-forces": false,
+  "centerStrength": 0.65945945945946,
+  "repelStrength": 13.5135135135135,
+  "linkStrength": 1,
+  "linkDistance": 114,
+  "scale": 0.27268599173601127,
+  "close": true
+}

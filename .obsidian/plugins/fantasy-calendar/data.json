@@ -1,0 +1,170 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Zatura",
+      "description": "this is the third time I made this I am gonna kms",
+      "id": null,
+      "static": {
+        "incrementDay": true,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Zirta",
+            "id": "ID_5b49eb396829"
+          },
+          {
+            "type": "day",
+            "name": "Q'iatia",
+            "id": "ID_485be8189959"
+          },
+          {
+            "type": "day",
+            "name": "Frita",
+            "id": "ID_6a3bd97aeb88"
+          },
+          {
+            "type": "day",
+            "name": "Mito",
+            "id": "ID_ca59ab9a7a68"
+          },
+          {
+            "type": "day",
+            "name": "Vimos",
+            "id": "ID_39099889fbb9"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Yirious",
+            "length": 20,
+            "id": "ID_6979fa297b99"
+          },
+          {
+            "type": "month",
+            "name": "Frinita",
+            "length": 20,
+            "id": "ID_697a6b295959"
+          },
+          {
+            "type": "month",
+            "name": "Carnizia",
+            "length": 20,
+            "id": "ID_ab9809899b9a"
+          },
+          {
+            "type": "month",
+            "name": "Britanious",
+            "length": 20,
+            "id": "ID_facba9487968"
+          },
+          {
+            "type": "month",
+            "name": "Zergsoius",
+            "length": 20,
+            "id": "ID_5afbfa892b1a"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Lunisa",
+            "cycle": 5,
+            "offset": null,
+            "faceColor": "#ff0000",
+            "shadowColor": "#000",
+            "id": "ID_ba5859c8aadb"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": [],
+        "useCustomYears": false
+      },
+      "current": {
+        "year": 154,
+        "month": 2,
+        "day": 5
+      },
+      "events": [
+        {
+          "name": "The Tsens War of Independence",
+          "description": "The Tsens War of Independence was fought between The Dutchy of Tsens and The Principality of Terik'Nor",
+          "date": {
+            "day": 13,
+            "month": 4,
+            "year": 115
+          },
+          "id": "ID_6a8b3968a89b",
+          "note": "History/The Tsens War of Independence",
+          "category": null,
+          "end": {
+            "year": 120,
+            "month": 1,
+            "day": 8
+          }
+        },
+        {
+          "name": "Tsens Indepence Day",
+          "description": "A celebration of the end of the Tyranny of Terik'Nor and the hope for the future of Tsens",
+          "date": {
+            "year": 120,
+            "month": 1,
+            "day": 8
+          },
+          "id": "ID_682868db0ba8",
+          "note": null,
+          "category": null,
+          "formulas": [
+            {
+              "type": "interval",
+              "number": 100,
+              "timespan": "days"
+            }
+          ],
+          "end": {
+            "year": 12000,
+            "month": 1,
+            "day": 8
+          }
+        }
+      ],
+      "categories": [],
+      "autoParse": false,
+      "path": "/",
+      "supportTimelines": false,
+      "syncTimelines": true,
+      "timelineTag": "#timeline",
+      "date": 1671595142303,
+      "displayWeeks": false
+    }
+  ],
+  "configDirectory": null,
+  "currentCalendar": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": null,
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "settingsToggleState": {
+    "calendars": true,
+    "events": true,
+    "advanced": true
+  },
+  "showIntercalary": false,
+  "version": {
+    "major": null,
+    "minor": null,
+    "patch": null
+  },
+  "debug": false
+}

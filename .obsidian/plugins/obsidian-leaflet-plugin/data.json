@@ -1,0 +1,166 @@
+{
+  "mapMarkers": [
+    {
+      "id": "Zatura Map",
+      "lastAccessed": 1658516421429,
+      "markers": [
+        {
+          "id": "ID_48ea1a7bc9ba",
+          "type": "default",
+          "loc": [
+            -8.625,
+            9.855230496453899
+          ],
+          "layer": "%5B%5BZatura%20World%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1ab809ea7baa",
+          "type": "default",
+          "loc": [
+            -11.75,
+            5.665750591016547
+          ],
+          "layer": "%5B%5BZatura%20World%20Map.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    },
+    {
+      "id": "Zatura-map",
+      "lastAccessed": 1659143661108,
+      "markers": [
+        {
+          "id": "ID_589bb91af8d8",
+          "type": "City",
+          "loc": [
+            -249.8125,
+            748.125
+          ],
+          "link": "Ma'kanix",
+          "layer": "%5B%5BZatura.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.779296875,
+            0.5231675392670158
+          ],
+          "description": "Capital City of Tsens",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Zatura leaflet.md"
+      ]
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#7b00eb",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "City",
+      "iconName": "map-marker",
+      "color": "#7b00eb",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": true,
+      "imageUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAYCAYAAAARfGZ1AAAAAXNSR0IArs4c6QAAAYxJREFUSEvdlUErRGEUhp83NoRkJaWMjY2aFX9AJiuKrY2FrGZnQX6A1GDjB7CRIolSiI2NUsKsLBRrxURI4ejoTo1r7txrMRtnd+93zvO95/3Od6+oYqiKbP4h3MxykibjbDOzfqAg6TScG2mLmb0By5ImojYwsxQwD5wBC5JeSnPLws1sAxgGbiR1VoAPAqvAM5CRdJEEnge6gU9gS9JIeAMzawKmgalgbRRYk/RRzP2l3MxWAFdUjKMIuG9+HNo0JalQCd4BNJcUPUm6LqO8DugKvc/HKXe/3YbtoIM9SQNl4GngHLgC6oF2oEXSQyXlRbiPYQ44AWaBW8AP9xAYA1oDvw+CTnv+Ai8KcA/vgcWgk3GfIsAPribU0U/lZtYIzAD7QBboBdrKjN9loNatyESM5y5wB8wBfTIz924nuAhDcTcywbrP/DqQdvgj0BC0WZugOC7FgHe3zOH+kCReAf8keJSOamTtX+BZSUtOSiqo6nAfsSSxKen7uptZopp/+CdK4lNcTlVt+QIni5fH/lnhogAAAABJRU5ErkJggg==",
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "5.0.3",
+  "version": {
+    "major": 5,
+    "minor": 0,
+    "patch": 3
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": 10,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "1080px",
+    "image": "[[Zatura.png]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Zatura.png]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 1,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "Zatura Map",
+    "lat": 50,
+    "long": 50,
+    "unit": "meters",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "imperial",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."
+}
