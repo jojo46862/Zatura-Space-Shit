@@ -17,7 +17,7 @@ A few of the questions within the realm are how did it come to be? Did all life 
 This plane is typically treated as a neutral zone for politics and religion but that doesn't quite stop people from arguing and trying to convert you one way or another. If I had to hear about the monstrous nature of those Apholosians or the doom that approaches Zatura I am going to have a migraine. Generally people approach a don't ask don't tell situation. If you hear someone say "I'm not that into politics but...", run away as fast as you possible can. Either they are distracting you to steal your ship, or they are a racial supremist trying to explain why we are in need of a purge of all the lesser races. God damn racists, Tieflings didn't do anything wrong but the whole universe seems to see them as monsters.
 
 ### TRAVEL
-
+TODO: Make a list of traveling locations within this plane. Gotta figure out some of these nice places.
 
 ### JOURNAL
 
