@@ -2,7 +2,7 @@ The Material Plane is the nexus where the philosophical and elemental forces tha
 The plane that most people are fully aware of. Most campaigns take place on this plane, but some might reach the planes.
 
 ### DISCOVERY
-
+This is where our intrepid adventure begin 
 
 ### SURVIVAL
 
