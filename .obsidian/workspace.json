@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "1d173145a160feb2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          },
+          {
             "id": "b8c9953a2bfe36f7",
             "type": "leaf",
             "state": {
@@ -42,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,7 +197,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "4631582cc4f28602",
+  "active": "1d173145a160feb2",
   "lastOpenFiles": [
     "Planes/Inner Planes/Material Plane.md",
     "Planes/Far Planes/Astral Plane.md",
